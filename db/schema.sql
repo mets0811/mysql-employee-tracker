@@ -1,10 +1,10 @@
 -- File for schema, which creates the database and tables
 
-DROP DATABASE IF EXISTS employeesDB;
+DROP DATABASE IF EXISTS employees_DB;
 
-CREATE DATABASE employeesDB;
+CREATE DATABASE employees_DB;
 
-USE employeesDB;
+USE employees_DB;
 
 CREATE TABLE department (
   id INT NOT NULL AUTO_INCREMENT,
@@ -29,5 +29,3 @@ CREATE TABLE employee (
   manager_id INT NULL,
   PRIMARY KEY (id)
 );
-© 2022 GitHub, Inc.
-Terms

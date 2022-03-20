@@ -1,6 +1,6 @@
 -- File for the schema's information. This creates the values to be inserted there. 
 
-USE employeesDB;
+USE employees_DB;
 
 INSERT INTO department (name)
 VALUES ("Sales");
