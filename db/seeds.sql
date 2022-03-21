@@ -1,4 +1,4 @@
--- File for the schema's information. This creates the values to be inserted there. 
+
 
 USE employees_DB;
 

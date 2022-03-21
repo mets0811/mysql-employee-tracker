@@ -1,4 +1,4 @@
--- File for schema, which creates the database and tables
+
 
 DROP DATABASE IF EXISTS employees_DB;
 
